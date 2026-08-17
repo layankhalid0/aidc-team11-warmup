@@ -1,0 +1,1 @@
+- Amal Alharbi, I want to gain practical experience in MLOps and deploying AI systems.
