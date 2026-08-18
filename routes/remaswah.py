@@ -2,11 +2,11 @@
 # The server picks up any file in here that defines PATH and handle().
 # Files starting with _ are ignored, so this one never becomes an endpoint.
 
-PATH = "/your-github-username"
+PATH = "/remaswah"
 
 def handle():
     return {
-        "name": "Your Name",
-        "team": "your-team",
-        "wants": "one thing you want out of the six weeks",
+        "name": "Remas Alrizqi",
+        "team": "team11",
+        "wants": "Build awesom AI and Software projects",
     }
