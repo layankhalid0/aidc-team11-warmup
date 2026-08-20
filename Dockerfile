@@ -1,4 +1,4 @@
-FROM python:3.9-slim
+FROM python:3.11-slim
 WORKDIR /app
 COPY . .
-CMD ["python3", "server.py"]
+CMD ["python", "server.py"]
